@@ -25,7 +25,7 @@ This image shows one of our insights around the deliberate use of uncertain sent
 ![sentiment deployement](https://github.com/JonathanMinto/Bank-of-England/blob/main/BR%20vs%20Uncertainty%20BOE.png)
 
 #
-## **Below are the documents created for the project**
+## **Project Documents**
 #### [**Data Cleaning Code**](https://github.com/JonathanMinto/Bank-of-England/blob/main/Data_Cleaning_and_Preparation.ipynb)
 
 #### [**Presentation Slides**](https://github.com/JonathanMinto/Bank-of-England/blob/main/Team10_LSE_EP_Assignment3_presentation_slides.pdf)
