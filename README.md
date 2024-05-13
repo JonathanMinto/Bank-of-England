@@ -13,11 +13,19 @@ predict market behaviour. This analysis will inform our understanding of the imp
 2. Determining the effectiveness of the Bank’s communications in mitigating the impact of crises.
 
 #### **Insights and Recommendations:**
+The following image shows negative as the prevailing sentiment despite it being on a downward trajectory from a 2009 peak
+![Mean sentiment](https://github.com/JonathanMinto/Bank-of-England/blob/main/mean_sentiment.png) 
 
+The following two images of a dashboard we created show the different in sentiment 'tone' from governor to non-governor (top 4 speakers)
+We found a more consisentent 'tone' for governors idicating possibly the nature of how speeches are created for them versus non-governors
 ![Governnor sentiment profiles](https://github.com/JonathanMinto/Bank-of-England/blob/main/Dashboard%20BOE.png)
+![Non-governror sentiment profiles](https://github.com/JonathanMinto/Bank-of-England/blob/main/Dashboard%20BOE%20NG.png)
+
+This image shows one of our insights around the deliberate use of uncertain sentiment. The first time stamp is Northern Rock requesting emergency funds. The uncertain sentiment steeply reduces. But we posit that the sentiment gradually builds back up as an attempt to reduce shock from further developments in the crisis. Then Lehman Brothers collapses sending the sentiment back a low level indicating a 'certainty' to the situation.
 ![sentiment deployement](https://github.com/JonathanMinto/Bank-of-England/blob/main/BR%20vs%20Uncertainty%20BOE.png)
 
-
+#
+## **Below are the documents created for the project**
 #### [**Data Cleaning Code**](https://github.com/JonathanMinto/Bank-of-England/blob/main/Data_Cleaning_and_Preparation.ipynb)
 
 #### [**Presentation Slides**](https://github.com/JonathanMinto/Bank-of-England/blob/main/Team10_LSE_EP_Assignment3_presentation_slides.pdf)
