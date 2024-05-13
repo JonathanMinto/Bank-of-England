@@ -1,7 +1,7 @@
 # Bank-of-England
 Group Project presented live to the Bank of England
 
-### **Scenario:**
+### **Project Brief:**
 Part of the job of the Bank of England is to provide reassurance and stability to financial markets. One way this is achieved is through representatives of the Bank delivering speeches at various public events. As an organisation, the Bank of England is interested in how the trends in these speeches correlate with observed events and economic indicators, as well as how the sentiment of these speeches can be used to
 predict market behaviour. This analysis will inform our understanding of the impact of the Bank’s communications on the economy, as well as the predictive power of using this data set.
 
