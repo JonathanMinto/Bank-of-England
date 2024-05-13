@@ -15,7 +15,7 @@ predict market behaviour. This analysis will inform our understanding of the imp
 #### **Insights and Recommendations:**
 
 ![Governnor sentiment profiles](https://github.com/JonathanMinto/Bank-of-England/blob/main/Dashboard%20BOE.png)
-
+![sentiment deployement](https://github.com/JonathanMinto/Bank-of-England/blob/main/BR%20vs%20Uncertainty%20BOE.png)
 
 
 #### [**Data Cleaning Code**](https://github.com/JonathanMinto/Bank-of-England/blob/main/Data_Cleaning_and_Preparation.ipynb)
