@@ -16,8 +16,8 @@ predict market behaviour. This analysis will inform our understanding of the imp
 The following image shows negative as the prevailing sentiment despite it being on a downward trajectory from a 2009 peak
 ![Mean sentiment](https://github.com/JonathanMinto/Bank-of-England/blob/main/mean_sentiment.png) 
 
-The following two images of a dashboard we created show the different in sentiment 'tone' from governor to non-governor (top 4 speakers)
-We found a more consisentent 'tone' for governors idicating possibly the nature of how speeches are created for them versus non-governors
+The following two images of a dashboard we created show the different in sentiment 'tone' from governor to non-governor (top 4 speakers by speech count)
+We found a more consisentent 'tone' for governors indicating possibly the nature of how speeches are framed for the respective roles
 ![Governnor sentiment profiles](https://github.com/JonathanMinto/Bank-of-England/blob/main/Dashboard%20BOE.png)
 ![Non-governror sentiment profiles](https://github.com/JonathanMinto/Bank-of-England/blob/main/Dashboard%20BOE%20NG.png)
 
