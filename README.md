@@ -1,5 +1,5 @@
 # Bank-of-England
-I was a key member of a remote, cross-functional group working on a bespoke project for the Bank of England. I delivered actionable insights across two presentations to the data science team and received positve feedback on out recommendations and depth of analysis.
+I was a key member of a remote, cross-functional group working on a bespoke project for the Bank of England. I delivered actionable insights across two presentations to the data science team and received positve feedback on our recommendations and depth of analysis.
 
 ### **Project Brief:**
 Part of the job of the Bank of England is to provide reassurance and stability to financial markets. One way this is achieved is through representatives of the Bank delivering speeches at various public events. As an organisation, the Bank of England is interested in how the trends in these speeches correlate with observed events and economic indicators, as well as how the sentiment of these speeches can be used to
